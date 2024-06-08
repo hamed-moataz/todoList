@@ -1,0 +1,23 @@
+.value{
+    background: #EADBC8;
+    border-radius: 10px;
+    
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 10px 0;
+    padding: 10px;
+    
+    
+}
+.container button{
+    border: none;
+    outline: none;
+    background: chocolate;
+    border-radius: 5px;
+    padding: 5px    ;
+}
